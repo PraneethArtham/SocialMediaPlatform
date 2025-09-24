@@ -64,8 +64,8 @@ PYTHONFULLSTACKPROJECT/
 1. create a .env file 
 
 2. add supabase credentials to your .env file:
-url="https://xkxrinvhlojcocanduza.supabase.co"
-key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhreHJpbnZobG9qY29jYW5kdXphIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg2ODcyODksImV4cCI6MjA3NDI2MzI4OX0.rFVydHjEXMsXf8F-EmKlGpTe24A3_by65LEeUD7monM"
+url="supabase_url"
+key="supabase_key"
 
 
 # Key Components
@@ -84,5 +84,6 @@ key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhreH
  if you encounter any issues or have questions :
  Contact details:9059222978
  mail id:arthampraneeth977@gmail.com
+
 
  
